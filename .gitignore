@@ -1,0 +1,13 @@
+.env
+chroma_langchain_db/
+chat-with-multiple-docs-rag.ipynb
+simple-rag (2).ipynb
+Docs/
+QA System using LamaIndex and Gemini/storage/
+QA System using LamaIndex and Gemini/Streamlit Deployed/storage/
+QA System using LamaIndex and Gemini/Streamlit Deployed/__pycache__/
+Experimenting Folder/
+multi-pdf handling/
+Multi-modal RAG-Video Processing/content/
+Multi-modal RAG-Video Processing/lancedb/
+Multi-modal RAG-Video Processing/*.jpg
