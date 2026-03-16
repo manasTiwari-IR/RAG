@@ -8,3 +8,6 @@ QA System using LamaIndex and Gemini/Streamlit Deployed/storage/
 QA System using LamaIndex and Gemini/Streamlit Deployed/__pycache__/
 Experimenting Folder/
 multi-pdf handling/
+Multi-modal RAG-Video Processing/content/
+Multi-modal RAG-Video Processing/lancedb/
+Multi-modal RAG-Video Processing/*.jpg
